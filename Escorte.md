@@ -79,7 +79,7 @@ Le nombre de véhicules d'escorte doit être de **1 à 2 pour chaque véhicule e
 
 | **1 Véhicule** | 1 V-PRI  | Toujours placé **devant** le V-TARGET. |
 
-| **2 Véhicules** | 1 V-PRI (ou Moto) + 1 V-TER  | Le plus rapide va devant25]. Le V-TER assure l'intégrité et la protection en cas d'arrêt. |
+| **2 Véhicules** | 1 V-PRI (ou Moto) + 1 V-TER  | Le plus rapide va devant. Le V-TER assure l'intégrité et la protection en cas d'arrêt. |
 
 | **3+ Véhicules** | 1-3 V-PRI + 1 V-COM + 1-3 V-TER  | Répartir équitablement. Idéal : 1 véhicule d'ouverture, 2 pour fermer. |
 
@@ -98,7 +98,7 @@ Le nombre de véhicules d'escorte doit être de **1 à 2 pour chaque véhicule e
 * **Reprise de position :** Après l'intersection, les V-PRI rejoignent l'avant au plus vite (trottoirs autorisés si besoin).
 
 ### Rond-point (Séquence de franchissement)
-Les V-PRI bloquent les entrées pour libérer le passage au convoi41]:
+Les V-PRI bloquent les entrées pour libérer le passage au convoi:
 1. **Approche/Engagement :** Les V-PRI entrent en premier.
 2. **Transit :** V-PRI1 bloque l'entrée, V-PRI2 bloque la 1ère sortie, V-PRI3 la 2ème.
 3. **Sortie :** Le convoi traverse, les V-PRI se repositionnent à l'avant.
