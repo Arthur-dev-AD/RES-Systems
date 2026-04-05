@@ -1,4 +1,58 @@
-# 🏎️ Fiche Mémo : Procédures d'Escorte
+# 🏎️ Fiche Mémo : Procédures d'Escorte (Corrigé)
+
+Ce mémo reprend strictement les codes et rôles définis dans la formation d'escorte.
+
+---
+
+## 👥 1. Lexique des Fonctions
+* **COD :** Conducteur.
+* **COM :** Communicateur (Agent le plus expérimenté).
+* **EQUI :** Équipiers armés.
+* **Moto :** Agent motocycliste.
+
+---
+
+## 🚘 2. Composition du Convoi
+* **V-TARGET :** Le véhicule à protéger (priorité absolue).
+* **V-PRI (Primaire) :** Véhicule placé à l'avant du convoi.
+* **V-TER (Tertiaire) :** Véhicule placé à l'arrière du convoi.
+* **V-COM (Communication) :** Gère les transmissions radio et les forces de l'ordre.
+
+---
+
+## 📏 3. Rôles et Placements tactiques
+
+### Configuration des véhicules
+| Nombre | Composition | Rôle |
+| :--- | :--- | :--- |
+| **1 Véhicule** | 1 V-PRI | Se place obligatoirement **devant** le V-TARGET. |
+| **2 Véhicules** | 1 V-PRI + 1 V-TER | V-PRI ouvre, V-TER assure l'intégrité arrière. |
+| **3+ Véhicules** | V-PRI + V-COM + V-TER | Répartition équilibrée (ex: 2 devant, 1 milieu, 1 arrière). |
+
+---
+
+## 🛣️ 4. Procédures de Circulation
+
+### Route à deux voies
+* **Interdiction :** Aucun véhicule tiers ne doit approcher le V-TARGET.
+* **Action :** Les deux derniers véhicules du convoi roulent côte à côte pour bloquer les deux voies derrière le V-TARGET.
+
+### Intersections et Carrefours
+* **Blocage :** Les **V-PRI** bloquent les axes non empruntés par le convoi.
+* **Transit :** Le V-TARGET passe en priorité une fois l'axe sécurisé.
+* **Reprise :** Les V-PRI ayant effectué le blocage reprennent leur place à l'avant du convoi le plus rapidement possible.
+
+### Rond-point
+1. **Engagement :** Les **V-PRI** entrent en premier.
+2. **Saturation :** Chaque V-PRI bloque une entrée ou une sortie du rond-point.
+3. **Passage :** Le V-TARGET traverse sans s'arrêter.
+4. **Relance :** Les V-PRI quittent leurs positions pour remonter à l'avant du convoi.
+
+---
+
+## ⚡ 5. Notes Matériel
+* Les **motos** doivent être idéalement identiques pour l'uniformité du convoi.
+* Les véhicules de type **Mercedes Vito** ou **Audi Q4** (électriques) sont placés devant ou derrière le V-TARGET selon les besoins de blindage ou de vitesse.# 🏎️ Fiche Mémo : Procédures d'Escorte
 
 Cette fiche résume les fonctions, compositions et manœuvres tactiques pour le convoi.
 
