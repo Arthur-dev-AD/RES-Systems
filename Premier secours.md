@@ -35,9 +35,13 @@ Avant d'agir, sécurisez la zone. Appelez ensuite immédiatement :
 ## 🩹 3. Utilisation du Kit de Secours
 
  **Ciseaux médicaux** : Couper les vêtements pour dégager une zone blessée. 
+ 
  **Compresses alcoolisées** : Désinfecter uniquement le pourtour d'une plaie. 
+ 
  **Compresses stériles** : Couvrir une plaie ouverte pour limiter l'infection. 
+ 
  **Bandages / Pansements** : Maintenir les compresses ou protéger les coupures légères. 
+ 
 
 ---
 
