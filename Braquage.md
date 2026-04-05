@@ -1,42 +1,59 @@
-🛑 Phase 1 : Mise en joue et Neutralisation
+# 👮 Protocole de Sécurité et d'Intervention
 
-L'objectif est d'obtenir la soumission immédiate du suspect pour éviter tout échange de coups de feu.
+Ce protocole définit les étapes de neutralisation, de fouille et de sécurisation d'un suspect lors d'une intervention.
 
-    Sommation : Identifiez-vous clairement et donnez des ordres courts et percutants.
+---
 
-        "Police / Sécurité ! Ne bougez plus ! Lâchez votre arme !"
+## 🛑 1. Neutralisation du Suspect
 
-    Mise au mur : Ordonnez au suspect de faire face au mur.
+L'objectif est d'obtenir la reddition immédiate et de limiter la menace.
 
-        "Face au mur ! Les mains sur la tête, doigts croisés !"
+* **Mise en joue :** Maintenir l'arme pointée vers le suspect avec une distance de sécurité (minimum 3 mètres).
+* **Sommations :** Donner des ordres courts et autoritaires.
+  > "POLICE ! NE BOUGEZ PLUS ! HAUT LES MAINS !"
+* **Position de contrainte :** Ordonner au suspect de faire face au mur.
+  * Faire écarter les jambes pour casser son équilibre.
+  * Faire croiser les mains derrière la tête ou les plaquer au mur.
 
-        "Écartez les jambes ! Plus loin !" (Cela le met en déséquilibre et limite sa capacité de fuite).
+---
 
-    Distance de sécurité : Gardez une distance d'au moins 2 à 3 mètres tant que le suspect n'est pas stabilisé.
+## 🔍 2. Fouille de Sécurité
 
-🔍 Phase 2 : Fouille et Sécurisation
+**Règle d'or :** Un agent couvre le suspect pendant que le second effectue la fouille.
 
-N'approchez jamais un suspect seul si vous pouvez l'éviter. Un agent couvre pendant que l'autre fouille.
+1. **Approche :** S'approcher par l'arrière, hors du champ de vision du suspect.
+2. **Contrôle :** Saisir fermement les doigts ou les mains si nécessaire.
+3. **Palpation systématique :**
+   * **Zone 1 :** Ceinture et dos (lieu privilégié pour les armes de poing).
+   * **Zone 2 :** Aisselles et torse.
+   * **Zone 3 :** Jambes et chevilles (couteaux, backups).
+4. **Utilisation du matériel :** Utiliser les **ciseaux médicaux** pour couper des sacs ou des vêtements suspects si nécessaire.
 
-    Contrôle au contact : Approchez par l'arrière. Maintenez une pression si nécessaire.
+---
 
-    Fouille systématique : Utilisez vos mains pour palper les zones où une arme pourrait être cachée (ceinture, chevilles, dos, poches).
+## ⛓️ 3. Sécurisation et Alerte
 
-    Saisie du matériel : Utilisez vos ciseaux médicaux pour couper des sangles ou des vêtements si un objet dangereux est coincé ou pour accéder à une blessure.
+* **Menottage :** Toujours menotter le suspect avant toute autre action (soins ou interrogatoire).
+* **Alerte Centrale :** Communiquer immédiatement via radio.
+  * **Localisation :** Où vous situez-vous précisément ?
+  * **Statut :** "Suspect neutralisé et sécurisé."
+  * **Bilan :** Présence d'armes, blessés, ou complices en fuite.
 
-    Menottage : Sécurisez les mains du suspect avant toute autre action.
+---
 
-📞 Phase 3 : Alerte
+## 🩹 4. Gestion des Blessés Tactiques
 
-Une fois le suspect maîtrisé, la scène doit être gérée légalement.
-L'Appel (Police/Secours)
+Si le suspect ou un agent est blessé pendant l'échange :
 
-Appelez immédiatement les renforts en précisant :
+| Situation | Action Immédiate | Matériel |
+| :--- | :--- | :--- |
+| **Hémorragie massive** | Pose immédiate du **Tourniquet**. | Tourniquet |
+| **Plaie par balle** | Pansement compressif et maintien au sol. | Compresses + Bandages |
+| **Douleur extrême** | Injection si agent qualifié. | Seringue + Morphine |
 
-    Le lieu exact.
+---
 
-    Le nombre de suspects neutralisés.
-
-    L'état de santé (blessés ou non).
-
-    La présence d'armes à feu.
+## ⚠️ Consignes de Sécurité
+* **Vigilance 360° :** Ne restez pas focalisé sur le suspect neutralisé, surveillez l'environnement (risques de sur-attentat ou complices).
+* **Communication :** Parlez à votre binôme en permanence.
+* **Respect :** Une fois menotté, le suspect est sous votre responsabilité et sa sécurité doit être assurée.
