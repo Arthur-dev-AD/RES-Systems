@@ -94,14 +94,18 @@ Le nombre de véhicules d'escorte doit être de **1 à 2 pour chaque véhicule e
 
 ### Intersections & Carrefours
 * **Blocage :** Les V-PRI bouchent les axes non empruntés.
+* 
 * **Communication :** Les V-PRI préviennent le V-COM ou communiquent par radio standard.
+* 
 * **Reprise de position :** Après l'intersection, les V-PRI rejoignent l'avant au plus vite (trottoirs autorisés si besoin).
 
 ### Rond-point (Séquence de franchissement)
 Les V-PRI bloquent les entrées pour libérer le passage au convoi:
 1. **Approche/Engagement :** Les V-PRI entrent en premier.
-2. **Transit :** V-PRI1 bloque l'entrée, V-PRI2 bloque la 1ère sortie, V-PRI3 la 2ème.
-3. **Sortie :** Le convoi traverse, les V-PRI se repositionnent à l'avant.
+2. 
+3. **Transit :** V-PRI1 bloque l'entrée, V-PRI2 bloque la 1ère sortie, V-PRI3 la 2ème.
+4. 
+5. **Sortie :** Le convoi traverse, les V-PRI se repositionnent à l'avant.
 
 ---
 
