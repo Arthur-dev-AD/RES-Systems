@@ -77,11 +77,11 @@ Cette fiche résume les fonctions, compositions et manœuvres tactiques pour le 
 ## 📏 3. Configurations d'Escorte
 Le nombre de véhicules d'escorte doit être de **1 à 2 pour chaque véhicule escorté**.
 
-| **1 Véhicule** | 1 V-PRI 23] | Toujours placé **devant** le V-TARGET. |
+| **1 Véhicule** | 1 V-PRI  | Toujours placé **devant** le V-TARGET. |
 
-| **2 Véhicules** | 1 V-PRI (ou Moto) + 1 V-TER 27] | Le plus rapide va devant25]. Le V-TER assure l'intégrité et la protection en cas d'arrêt. |
+| **2 Véhicules** | 1 V-PRI (ou Moto) + 1 V-TER  | Le plus rapide va devant25]. Le V-TER assure l'intégrité et la protection en cas d'arrêt. |
 
-| **3+ Véhicules** | 1-3 V-PRI + 1 V-COM + 1-3 V-TER 32] | Répartir équitablement. Idéal : 1 véhicule d'ouverture, 2 pour fermer. |
+| **3+ Véhicules** | 1-3 V-PRI + 1 V-COM + 1-3 V-TER  | Répartir équitablement. Idéal : 1 véhicule d'ouverture, 2 pour fermer. |
 
 ---
 
