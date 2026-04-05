@@ -10,7 +10,7 @@ L'objectif est d'obtenir la reddition immédiate et de limiter la menace.
 
 * **Mise en joue :** Maintenir l'arme pointée vers le suspect avec une distance de sécurité (minimum 3 mètres).
 * **Sommations :** Donner des ordres courts et autoritaires.
-  > "POLICE ! NE BOUGEZ PLUS ! HAUT LES MAINS !"
+  > "RES ! NE BOUGEZ PLUS ! HAUT LES MAINS !"
 * **Position de contrainte :** Ordonner au suspect de faire face au mur.
   * Faire écarter les jambes pour casser son équilibre.
   * Faire croiser les mains derrière la tête ou les plaquer au mur.
