@@ -12,7 +12,7 @@ Cependant, **l'autorité supérieure nous a refusé le droit à ces équipements
 ## 🛑 STATUT : EN GRÈVE
 
 ### 📋 Consignes de conduite
-* **Intervention :** Merci de **ne pas intervenir** en cas de braquage ou d'incident majeur.
+* **Intervention :** Merci de **ne pas intervenir** en cas de braquage ou d'incident majeur. Faites simplement une main courante en prenant des photos si possible
 * **Armement :** Il est strictement interdit de **prendre vos armes de service**.
 * **Poste :** Vous pouvez prendre votre vacation mais, concrètement, vous resterez en position **"plante verte"** (présence passive uniquement).
 
