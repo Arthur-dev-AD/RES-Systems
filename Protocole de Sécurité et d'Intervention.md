@@ -46,7 +46,9 @@ L'objectif est d'obtenir la reddition immédiate et de limiter la menace.
 Si le suspect ou un agent est blessé pendant l'échange :
 
 | **Hémorragie massive** : Pose immédiate du **Tourniquet**. | Tourniquet |
+
 | **Plaie par balle** : Pansement compressif et maintien au sol. | Compresses + Bandages |
+
 | **Douleur extrême** : Injection si agent qualifié. | Seringue + Morphine |
 
 ---
