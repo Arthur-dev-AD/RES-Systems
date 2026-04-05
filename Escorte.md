@@ -23,10 +23,10 @@ Ce mémo reprend strictement les codes et rôles définis dans la formation d'es
 ## 📏 3. Rôles et Placements tactiques
 
 ### Configuration des véhicules
-| Nombre | Composition | Rôle |
-| :--- | :--- | :--- |
 | **1 Véhicule** | 1 V-PRI | Se place obligatoirement **devant** le V-TARGET. |
+
 | **2 Véhicules** | 1 V-PRI + 1 V-TER | V-PRI ouvre, V-TER assure l'intégrité arrière. |
+
 | **3+ Véhicules** | V-PRI + V-COM + V-TER | Répartition équilibrée (ex: 2 devant, 1 milieu, 1 arrière). |
 
 ---
@@ -78,9 +78,10 @@ Cette fiche résume les fonctions, compositions et manœuvres tactiques pour le 
 Le nombre de véhicules d'escorte doit être de **1 à 2 pour chaque véhicule escorté**.
 
 | Type | Composition | Placement & Rôles |
-| :--- | :--- | :--- |
 | **1 Véhicule** | 1 V-PRI 23] | Toujours placé **devant** le V-TARGET. |
+
 | **2 Véhicules** | 1 V-PRI (ou Moto) + 1 V-TER 27] | Le plus rapide va devant25]. Le V-TER assure l'intégrité et la protection en cas d'arrêt. |
+
 | **3+ Véhicules** | 1-3 V-PRI + 1 V-COM + 1-3 V-TER 32] | Répartir équitablement. Idéal : 1 véhicule d'ouverture, 2 pour fermer. |
 
 ---
