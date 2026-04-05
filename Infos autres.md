@@ -12,7 +12,7 @@
 ---
 
 ### 🚨 Cas particulier : Prise d'Otage (PO) dans le bâtiment
-* **Procédure :** Sortez immédiatement du bâtiment.
+* **Procédure :** Sortez immédiatement du bâtiment. Si on tente de vous prendre en otage, dites juste que vous n'avez aucun intéret à rester ici car vous n'êtes pas armés et que vous êtes en grève.
 * **Action :** Appelez la police (le 17 ou 112) et laissez-les se débrouiller entièrement. **Ne tentez aucune négociation ni extraction.**
 
 ---
