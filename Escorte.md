@@ -1,4 +1,4 @@
-# 🏎️ Fiche Mémo : Procédures d'Escorte (Corrigé)
+# 🏎️ Fiche Mémo : Procédures d'Escorte
 
 Ce mémo reprend strictement les codes et rôles définis dans la formation d'escorte.
 
