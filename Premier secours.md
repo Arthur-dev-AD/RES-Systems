@@ -1,78 +1,54 @@
-1. L'Alerte : Les numéros qui sauvent
+# 🚑 Guide de Premiers Secours
 
-Avant d'agir, assurez-vous que la zone est sûre pour vous et la victime. Appelez ensuite le :
+Ce guide récapitule les gestes essentiels à effectuer en attendant l'arrivée des secours spécialisés.
 
-    15 : SAMU (Urgences médicales)
+---
 
-    18 : Pompiers (Incendies, accidents)
+## 📞 1. L'Alerte
+Avant d'agir, sécurisez la zone. Appelez ensuite immédiatement :
+* **15** (SAMU)
+* **18** (Pompiers)
+* **112** (Numéro d'urgence européen)
 
-    112 : Numéro d'urgence européen
+> **Précisez :** Votre localisation, la nature de l'incident, le nombre de victimes et l'état de chacune.
 
-2. La Position Latérale de Sécurité (PLS)
+---
 
-Pour qui ? Une personne inconsciente qui respire normalement. Cela évite l'étouffement par les liquides (vomi) ou la chute de la langue.
+## 🔴 2. Urgences Vitales
 
-    Vérification : Penchez-vous sur la bouche de la victime, regardez si le ventre se soulève.
+### Hémorragie Massive (Saignement abondant)
+* **Action :** Compression directe sur la plaie avec un linge propre.
+* **Si échec :** Poser le **Tourniquet** (Garrot) au-dessus de la blessure (entre la plaie et le cœur).
+* **Important :** Noter l'heure de pose de façon visible.
 
-    La technique :
+### Arrêt Cardiaque (Inconscient et ne respire pas)
+1. **Alerter :** Demander un Défibrillateur (DAE).
+2. **Masser :** Réaliser un massage cardiaque au centre du thorax.
+3. **Rythme :** 100 à 120 compressions par minute (bras tendus).
 
-        Alignez les jambes de la victime.
+### Inconscience (Respire normalement)
+* **Action :** Mise en **Position Latérale de Sécurité (PLS)**.
+* **But :** Libérer les voies aériennes et éviter l'étouffement.
 
-        Placez le bras le plus proche de vous à angle droit (en "L").
+---
 
-        Prenez l'autre main, placez le dos de sa main contre son oreille opposée.
+## 🩹 3. Utilisation du Kit de Secours
 
-        Attrapez le genou opposé et tirez-le pour faire basculer la victime vers vous.
+| Matériel | Usage |
+| :--- | :--- |
+| **Ciseaux médicaux** | Couper les vêtements pour dégager une zone blessée. |
+| **Compresses alcoolisées** | Désinfecter uniquement le pourtour d'une plaie. |
+| **Compresses stériles** | Couvrir une plaie ouverte pour limiter l'infection. |
+| **Bandages / Pansements** | Maintenir les compresses ou protéger les coupures légères. |
 
-        Ouvrez la bouche de la victime vers le bas pour faciliter l'évacuation des liquides.
+---
 
-3. Le Massage Cardiaque (RCP)
+## 💉 4. Soins Spécialisés (Niveau Médical)
 
-Pour qui ? Une personne inconsciente qui ne respire plus (arrêt cardiaque).
+* **Morphine :** À administrer via **seringue stérile** uniquement en cas de douleur extrême. 
+  * *Contre-indication :* Ne pas utiliser si la victime a des difficultés respiratoires.
+* **Poche de sang O- :** Utilisée pour stabiliser une victime en état de choc hémorragique suite à une forte perte de sang.
 
-    L'action :
+---
 
-        Allongez la victime sur une surface dure.
-
-        Placez le talon d'une main au centre de la poitrine, l'autre main par-dessus.
-
-        Bras tendus, comprimez le thorax de 5 à 6 cm.
-
-        Gardez un rythme de 100 à 120 compressions par minute (suivez le rythme de la chanson Stayin' Alive).
-
-    Le DAE : Si un Défibrillateur Automatisé Externe est disponible, allumez-le immédiatement et suivez les instructions vocales.
-
-4. Les Bandages et Plaies
-
-Le but est d'éviter l'infection ou d'arrêter un saignement.
-Plaie simple
-
-    Lavez-vous les mains.
-
-    Nettoyez à l'eau propre et au savon (ou antiseptique).
-
-    Couvrez avec un pansement stérile.
-
-Plaie grave avec hémorragie
-
-    Compression directe : Appuyez fortement sur la plaie avec votre main (protégée par un gant ou un sac plastique) ou un linge propre.
-
-    Pansement compressif : Si vous devez libérer vos mains, faites un bandage serré pour maintenir la pression.
-
-    Le Garrot : Uniquement en cas de saignement massif impossible à arrêter et si les secours sont loin. Notez l'heure de pose sur le front de la victime.
-
-5. L'Étouffement (Obstruction des voies aériennes)
-
-Signe : La victime ne peut plus parler, tousser ou respirer.
-
-    5 claques dans le dos : Entre les omoplates avec le talon de la main.
-
-    5 compressions abdominales (Méthode de Heimlich) :
-
-        Placez-vous derrière la victime.
-
-        Mettez votre poing juste au-dessus du nombril.
-
-        Tirez d'un coup sec vers vous et vers le haut (en "J").
-
-    Répétez jusqu'à l'expulsion de l'objet ou l'évanouissement (si évanouissement, passez à la RCP).
+⚠️ **Rappel :** Ne jamais donner à boire ou à manger à une victime blessée.
