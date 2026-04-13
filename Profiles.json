@@ -1,1 +1,35 @@
-
+{
+  "agents": [
+    {
+      "code": "8486",
+      "nom": "Romain ORE",
+      "role": "Patron de la RES"
+    },
+    {
+      "code": "7374",
+      "nom": "Wilhelm Von Hohenstaufen",
+      "role": "Bras droit RES"
+    },
+    {
+      "code": "1699",
+      "nom": "Arthur Duchemin",
+      "role": "Secrétaire"
+    },
+    {
+      "code": "9012",
+      "nom": "Arthur FREE",
+      "role": "Informaticien, couturier et agent"
+    },
+    {
+      "code": "4859",
+      "nom": "Mathis Du68",
+      "role": "Superviseur"
+    },
+    {
+      "code": "9683",
+      "nom": "Ismael Benali",
+      "role": "Agent de sécurité"
+    },
+    
+  ]
+}
