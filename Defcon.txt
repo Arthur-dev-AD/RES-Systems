@@ -16,4 +16,4 @@
 
 # DEFCON 5
 
-## Service standart
+## Service standard.
