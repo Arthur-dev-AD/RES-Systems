@@ -1,11 +1,51 @@
-# 👮 ALERTE CONCERNANT LA POLICE 👮
+# 👮 Alerte – Conduite à tenir lors d’un contrôle de police
 
-## Nous avons déposé plainte contre la police pour différentes raisons.
+## Contexte
 
-### Que faire si la police me contrôle ?
-    1.Lancez un enregistrement
-    2.Demandez immédiatement les matricule, si il vous les refusent ce n'est pas grave
-    3.Evitez toutes altercation avec la police
-    4.Si ils escaladent, continuez d'enregistrer mais éloignez vous si possible.
-    5.Si ils veulent vous embarquer vous ou le véhicule, dites leurs qu'il est en règle avec une assurance qui est bonne et tous les papiers en règles
-    6.Envoyez le rec à _Arthur_.68
+Une plainte a été déposée contre les forces de l’ordre pour plusieurs motifs.
+Ce document vise à rappeler les bonnes pratiques en cas de contrôle.
+
+---
+
+## 🧭 Que faire en cas de contrôle ?
+
+### 1. 🎥 Démarrer un enregistrement
+
+* Activez un enregistrement vidéo/audio dès le début de l’interaction.
+* Assurez-vous que la scène est visible et audible.
+
+### 2. 🪪 Identifier les agents
+
+* Demandez calmement le **matricule** des agents.
+* En cas de refus, ne pas insister et rester neutre.
+
+### 3. 🤝 Rester calme
+
+* Évitez toute provocation ou altercation.
+* Parlez de manière posée, sans élever la voix.
+
+### 4. ⚠️ En cas d’escalade
+
+* Continuez à enregistrer.
+* Prenez de la distance si la situation le permet, sans fuir ni résister.
+
+### 5. 🚗 Concernant le véhicule
+
+* Indiquez clairement que :
+
+  * le véhicule est assuré
+  * les documents sont en règle
+* Ne vous opposez pas physiquement à une décision.
+
+### 6. 📤 Sauvegarde des preuves
+
+* Envoyez l’enregistrement dès que possible à : ***Arthur*.68**
+* Conservez une copie sécurisée.
+
+---
+
+## ❗ Rappel important
+
+* Ne jamais résister physiquement.
+* Ne jamais entraver une intervention.
+* L’objectif est de documenter la situation, pas de l’aggraver.
