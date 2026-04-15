@@ -8,4 +8,4 @@
     3.Evitez toutes altercation avec la police
     4.Si ils escaladent, continuez d'enregistrer mais éloignez vous si possible.
     5.Si ils veulent vous embarquer vous ou le véhicule, dites leurs qu'il est en règle avec une assurance qui est bonne et tous les papiers en règles
-    6.Envoyez le rec à ``_Arthur_.68``
+    6.Envoyez le rec à _Arthur_.68
